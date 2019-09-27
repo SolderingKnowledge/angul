@@ -1,10 +1,10 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.less']
+  selector: 'app-root',//selecting like <app-root></app-root>
+  templateUrl: './app.component.html',//markup file
+  styleUrls: ['./app.component.less']//stylesheet file
 })
 export class AppComponent {
-  title = 'angul';
+  title:string = 'angula';
 }
