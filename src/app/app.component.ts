@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.less']//stylesheet file
 })
 export class AppComponent {
-  title:string = 'angula';
+  title:string = 'angul';
 }
